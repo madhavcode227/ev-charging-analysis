@@ -1,0 +1,5 @@
+utilization_pct,subsidy_pct,delivered_kwh_day,capex,net_annual,payback_years
+5,0,72.0,1000000,136520,7.3
+5,20,72.0,800000,136520,5.9
+10,0,144.0,1000000,373040,2.7
+10,20,144.0,800000,373040,2.1
